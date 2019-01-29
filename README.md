@@ -1,3 +1,4 @@
+<h2 align="center">SNAKES AND LADDERS</h2> 
 <h2>INTRODUCTION</h2>
 <p>Snake and ladder is an ancient Indian game regarded today as a worldwide classic. The game introduces us to the concept of probability and the game is a combination of pure mathematics and serendipity. History has it the game has its roots in morality lesson, where a player’s progression up the board represents a journey of life complicated by the boons and banes.</p>
 
